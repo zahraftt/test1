@@ -1,0 +1,49 @@
+.linkpaeen{
+    color: red;
+    border: #04aa94;
+    font-size: 12px;
+    padding: 0;
+   
+}
+
+h1{
+    color: rgb(255, 255, 255);
+}
+
+
+p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a{
+    background-color: #b1ebfa;
+    color: #04aa94;
+    padding: 20px;
+display:flexbox;
+    border-radius: 6px;
+    text-decoration: none;
+   border: rgba(0, 90, 112, 0.842) 3px solid;
+    font-size: 20px;
+    font-weight: bolder;   
+}
+
+body,header{
+   border: solid wheat 2px;
+ color: #01473e;
+  font-size: 22px;
+   background-color: #609955;
+       font-family: Verdana, Geneva, Tahoma, sans-serif
+    ,serif;
+}
+
+img {
+    width: 850px;
+    height: 650px;
+    
+}
+form{
+    background-color: #1f5a17;
+ direction: rtl;
+    padding-top: 100px;
+    color: #fffefe;
+}
